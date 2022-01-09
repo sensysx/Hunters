@@ -1,0 +1,6 @@
+name: Hunters
+version: '${project.version}'
+main: me.sensys.hunters.Main
+api-version: 1.18
+authors: [ sensysx ]
+description: A Minecraft Manhunt Plugin
